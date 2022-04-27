@@ -12,4 +12,4 @@
   - [知乎](https://www.zhihu.com/people/bing-he-xiang-yi-7/answers) 回答了一些奇奇怪怪的问题):
   - [思否](https://segmentfault.com/u/liuary) 胡乱写了写C++的知识点
   
-<intpu type="button" text="按钮"/>
+<button type="button">Click Me!</button>
