@@ -12,4 +12,4 @@
   - [知乎](https://www.zhihu.com/people/bing-he-xiang-yi-7/answers) 回答了一些奇奇怪怪的问题):
   - [思否](https://segmentfault.com/u/liuary) 胡乱写了写C++的知识点
   
-就是个很普通很普通的人呐~
+<intpu type="button"/>
