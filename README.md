@@ -8,7 +8,10 @@
 
 ## 个人网站平台链接
   - [GitHub](https://github.com/Liuary/) 空空如也~
+    - [C++ 笔记](https://github.com/Liuary/SkillForCPP) 
+    - [简单算法](https://github.com/Liuary/Algorithm)
   - [BiliBili](https://space.bilibili.com/187013357) 几个不入流的教程=-=
+    - 计划后续上传一些 UE4 相关的视频，目前只有 C 和 C++ 的教程
   - [知乎](https://www.zhihu.com/people/bing-he-xiang-yi-7/answers) 回答了一些奇奇怪怪的问题:)
-  - [思否](https://segmentfault.com/u/liuary) 胡乱写了写C++的知识点
+  - [思否](https://segmentfault.com/u/liuary) 胡乱写了写C++的知识点（只写了面向对象相关）
 
